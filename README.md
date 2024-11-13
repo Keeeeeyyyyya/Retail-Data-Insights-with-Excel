@@ -85,7 +85,8 @@ The primary goal of this project is to transform raw store data into meaningful 
 **Excel Report**
 
 The full Analytics report, complete with visualizations, is available for download:
-[Link to download this PDF](file:///C:/Users/khushi%20mosem/Desktop/practice/Vrinda%20Store%20Data%20Analysis%20pdf.pdf)
+[Visit the Documentation](file:///C:/Users/khushi%20mosem/Desktop/practice/Vrinda%20Store%20Data%20Analysis%20pdf.pdf)
+
 
 
 Feel free to explore the data and visualizations within the Excel file to get a better understanding of how the analysis was conducted and how the findings can support store management.
