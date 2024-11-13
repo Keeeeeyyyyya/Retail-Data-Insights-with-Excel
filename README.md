@@ -1,5 +1,7 @@
 # Retail-Data-Insights-with-Excel
 
+![Screenshot (67)](https://github.com/user-attachments/assets/da2035a9-2e44-43bf-9c55-1dae0b3cf29f)
+
 
 
 Store Data Analysis using Excel
